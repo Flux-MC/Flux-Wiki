@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8302],{6288:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/Flux-Wiki/blog/tags/docusaurus","allTagsPath":"/Flux-Wiki/blog/tags","count":4}')}}]);

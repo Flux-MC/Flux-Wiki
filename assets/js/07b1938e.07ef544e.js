@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[780],{1631:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/Flux-Wiki/blog/tags/hello","allTagsPath":"/Flux-Wiki/blog/tags","count":2}')}}]);
